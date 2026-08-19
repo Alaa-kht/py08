@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+matrix_env/
+.mypy_cache/
+matrix_analysis.png
